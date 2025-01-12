@@ -1,0 +1,19 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.iml
+*.log
+*.bak
+
+# Node.js dependencies and lock files (for frontend)
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Other
+*.swp
