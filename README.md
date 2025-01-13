@@ -1,5 +1,5 @@
 # Drawr Platform
-
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ## Overview
 Drawr Platform is a collaborative drawing application that allows users to create, share, and collaborate on drawings in real-time. The platform includes both a frontend (for the user interface) and a backend (for handling user interactions, authentication, and storage).
 
