@@ -10,4 +10,12 @@ public class BackendApplication {
 		SpringApplication.run(BackendApplication.class, args);
 	}
 
+	/*@Bean
+	public CommandLineRunner run(FeedService feedService) {
+		return args -> {
+			// Logic to run at startup
+			feedService.startFeed();
+		};
+	}*/
+
 }
